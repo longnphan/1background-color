@@ -1,0 +1,12 @@
+body {
+background-color: lightgray;
+color: black;  
+}
+
+.button1 {
+  background-color: lightgray;
+  border-radius: 10px;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 4px 8px;;
+}
